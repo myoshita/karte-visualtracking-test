@@ -4,6 +4,7 @@ buildscript {
     }
     dependencies {
         classpath "io.karte.android:gradle-plugin:2.4.0"
+        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.44'
     }
 }
 
